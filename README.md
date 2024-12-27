@@ -29,8 +29,11 @@ https://fp-barunastra-4j8e.vercel.app/
 
 ## Lighthouse result
 1. Mobile
-![Screenshot (95)](https://github.com/user-attachments/assets/ccaa603f-4669-4d2e-a175-0f27ec6cce2c)
-2. Desktop
+2. 
+![Screenshot 2024-12-27 203745](https://github.com/user-attachments/assets/662302ef-6a51-489d-bfb7-b359354473e4)
+
+4. Desktop
+
 ![Screenshot (96)](https://github.com/user-attachments/assets/e164a7e1-c659-4a38-8fae-d6d437ca0af3)
 
 
