@@ -1,36 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Project Overview
 
-First, run the development server:
+This project is a landing page  for the Barunastra RoboBoat Team, using Next.js, Tailwind CSS, and TypeScript. The repository provides the necessary files and configuration to set up the website efficiently. This landing page is for sponsorship concerns and targets a company that would be our partner in the future, so I use a simple formal design to give a good user experience. Here I didn't use much color because it distracted the user's focus and ended up dissatisfied and left the website. Another design I used in this landing page is simple and focused on utility rather than cool features, for example in the hero section component, I only used header text and image with simple edits (darken the picture and put it into a shape) because I believe that a good hook/header will give special user attention. The choice of color that I used was only 5, black and white for the dark theme, the primary color(#001C4A) and the secondary color(#F16028) to give variation in theme, and gray for paragraph text. The features contained in this landing page is automatic menu navigation, text hover, 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Technology Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Next.js Framework: Used to build a fast, scalable web application.
+2. Tailwind CSS: For responsive design and utility-based styling.
+3. Vercel Deployment: Easy deployment process for Next.js apps on the Vercel platform.
+4. TypeScript Integration: Ensures type safety and scalability for the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+also, some components I get it from :
+1. https://www.hyperui.dev/
+2. https://tailwindui.com/
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Why do I use that technology?
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Performance: Next.js ensures fast performance through features like static site generation, server-side rendering, and automatic code splitting.
+2. Scalability: TypeScript ensures that the codebase will remain clean, maintainable, and scalable as the project grows.
+3. Design Flexibility: Tailwind CSS provides flexibility in styling without requiring writing complex CSS, allowing for quick design changes and responsiveness.
