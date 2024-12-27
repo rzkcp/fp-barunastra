@@ -20,3 +20,13 @@ also, some components I get it from :
 1. Performance: Next.js ensures fast performance through features like static site generation, server-side rendering, and automatic code splitting.
 2. Scalability: TypeScript ensures that the codebase will remain clean, maintainable, and scalable as the project grows.
 3. Design Flexibility: Tailwind CSS provides flexibility in styling without requiring writing complex CSS, allowing for quick design changes and responsiveness.
+
+
+## Lighthouse result
+1. Mobile
+![Screenshot (95)](https://github.com/user-attachments/assets/ccaa603f-4669-4d2e-a175-0f27ec6cce2c)
+2. Desktop
+![Screenshot (96)](https://github.com/user-attachments/assets/e164a7e1-c659-4a38-8fae-d6d437ca0af3)
+
+
+
