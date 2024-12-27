@@ -15,6 +15,11 @@ also, some components I get it from :
 1. https://www.hyperui.dev/
 2. https://tailwindui.com/
 
+
+## Deployed Website Link
+
+https://fp-barunastra-4j8e.vercel.app/
+
 ## Why do I use that technology?
 
 1. Performance: Next.js ensures fast performance through features like static site generation, server-side rendering, and automatic code splitting.
