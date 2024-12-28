@@ -20,7 +20,7 @@ export default function Sponsorship() {
             </p>
 
             <Link
-              href="https://drive.google.com/file/d/1mb0WTxeguKHmqyAuxk7bU8OxoW8X8TV1/view?usp=drive_link"
+              href="https://drive.google.com/file/d/17DLBktbm-Dz-Z2CLuk5yKt5YYma22cOa/view?usp=sharing"
               className="mt-3 px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-primary text-white hover:bg-white active:bg-white hover:font-bold hover:bg-secondary"
             >
               Get Started
