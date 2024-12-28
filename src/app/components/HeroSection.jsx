@@ -18,7 +18,7 @@ const HeroSection = () => {
             Driving Innovation in Maritime Robotics
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Join us in shaping the fututre of Indonesia's maritime industry!
+            Join us in shaping the future of Indonesia's maritime industry!
           </p>
           <div>
             <Link
