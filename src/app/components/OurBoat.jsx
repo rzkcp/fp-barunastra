@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 const features = [
-  { name: "Name", description: "Gypsy" },
+  { name: "Name", description: "Gypsy Voyager" },
   {
     name: "Beam",
     description: "58,14 cm",
